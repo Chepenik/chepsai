@@ -8,8 +8,8 @@ import '@fortawesome/fontawesome-svg-core/styles.css';
 const inter = Inter({ subsets: ['latin'] })
 
 export const metadata: Metadata = {
-  title: 'MassAdoption',
-  description: 'Bitcoin AI called Mr. Nakamoto',
+  title: 'Anon AI',
+  description: 'If 4chan had an AI, this would be it.',
 }
 
 export default function RootLayout({

@@ -13,12 +13,6 @@ const LandingPage = () => {
         <LandingNavbar />
         <LandingHero />
         <LandingContent />
-        <iframe
-          src="https://btcmap.org/"
-          width="100%"
-          height="800px"
-          style={{ padding: "100px 100px 100px 100px" }}
-        />
       </div>
       <Footer />
     </div>
