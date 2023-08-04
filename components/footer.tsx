@@ -23,13 +23,13 @@ export const Footer = () => {
         </Link>
         <p>Copyright © {current_year}, Binmucker LLC. All Rights Reserved.</p>
         <div>
-            <a href="">
+            <a href="https://twitter.com/ConorChepenik">
             <FontAwesomeIcon icon={faTwitter} size="lg" className="mx-2" />
             </a>
-            <a href="">
+            <a href="https://github.com/Chepenik">
                 <FontAwesomeIcon icon={faGithub} size="lg" className="mx-2" />
             </a>
-          <a href="">
+          <a href="https://www.linkedin.com/in/conorchepenik/">
             <FontAwesomeIcon icon={faLinkedin} size="lg" className="mx-2" />
           </a>
         </div>
